@@ -1,6 +1,6 @@
   .hljs {
     display: block;
-    background: white;
+    background: black;
     padding: 0.5em;
     color: #333333;
     overflow-x: auto;
@@ -12,7 +12,7 @@
   .java .hljs-javadoc,
   .javascript .hljs-javadoc,
   .rust .hljs-preprocessor {
-    color: #969896;
+    color: black;
   }
   
   .hljs-string,
@@ -37,7 +37,7 @@
   .xml .hljs-value,
   .less .hljs-built_in,
   .scss .hljs-built_in {
-    color: #df5000;
+    color: black;
   }
   
   .hljs-keyword,
@@ -61,7 +61,7 @@
   .stylus .hljs-at_rule,
   .go .hljs-typename,
   .swift .hljs-preprocessor {
-    color: #a71d5d;
+    color: black;
   }
   
   .apache .hljs-common,
@@ -132,7 +132,7 @@
   .css .hljs-tag,
   .xml .hljs-title,
   .stylus .hljs-tag {
-    color: #63a35c;
+    color: black;
   }
   
   .bash .hljs-variable,
@@ -147,7 +147,7 @@
   .nginx .hljs-variable,
   .xml .hljs-tag,
   .scss .hljs-variable {
-    color: #333333;
+    color:black;
   }
   
   .bash .hljs-title,
@@ -186,12 +186,12 @@
   .stylus .hljs-title,
   .swift .hljs-title,
   .diff .hljs-chunk {
-    color: #795da3;
+    color: black;
   }
   
   .coffeescript .hljs-reserved,
   .coffeescript .hljs-attribute {
-    color: #1d3e81;
+    color: black;
   }
   
   .diff .hljs-chunk {
@@ -199,13 +199,13 @@
   }
   
   .diff .hljs-addition {
-    color: #55a532;
-    background-color: #eaffea;
+    color: black;
+    background-color: black;
   }
   
   .diff .hljs-deletion {
-    color: #bd2c00;
-    background-color: #ffecec;
+    color: black;
+    background-color: black;
   }
   
   .markdown .hljs-link_url {
